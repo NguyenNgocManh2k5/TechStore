@@ -1,6 +1,9 @@
 # TechStore — Ứng dụng quản lý sản phẩm
 
-*(Lưu ý: Đối với tính năng nhận diện sản phẩm bằng camera điện thoại, cần cài đặt ứng dụng DroidCam trên máy tính và điện thoại.)*
+*(Lưu ý: 
+- Đối với tính năng nhận diện sản phẩm bằng camera điện thoại, cần cài đặt ứng dụng DroidCam trên máy tính và điện thoại.
+- Đối với tính năng đăng nhập bằng khuôn mặt, cần phải lưu ảnh vào đường dẫn D:/Images/... và trên thiết bị phải có webcam
+)*
 
 ---
 
